@@ -1,3 +1,3 @@
-# Multi-CAM
+# Jitter-CAM
 
-Anonymous code for Multi-CAM
+Anonymous code for Jitter-CAM
